@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🌱 I’m always learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about JavaScript, Python, or any development-related topics.
-- 📫 How to reach me: [Email](mailto:danilo@example.com) | [LinkedIn](https://www.linkedin.com/in/danilo)
 
 ## 🛠️ Tech Stack
 
@@ -19,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔥 Projects
 
+- **[Workshops](https://github.com/pucDanilo/Workshops):** Workshops GTI
 - **[pucDanilo](https://github.com/pucDanilo/pucDanilo):** Brief description of the project.
 
 ## 📈 GitHub Stats
